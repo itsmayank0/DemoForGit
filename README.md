@@ -11,7 +11,7 @@
 <br>
 `git clone [url]`
 <br>
-`git stash`
+`git stash` --> moving working files in stash and checkout
 <br>
 `git stash list`
 <br>
@@ -29,13 +29,13 @@
 <br>
 `git checkout <branch>`
 <br>
-`git checkout --track origin/<remoteBranch>`
+`git checkout --track origin/<remoteBranch>` --> checking out to remote branch in local
 <br>
 `git branch <new branch>`
 <br>
 `git push`
 <br>
-`git push --set-upstream origin <localbranch>`
+`git push --set-upstream origin <localbranch>` --> creates new branch as local in remote
 <br>
 `git branch -d [branch-name]` --> Delete the specied Branch
 <br>
