@@ -25,7 +25,7 @@
 <br>
 `git branch`
 <br>
-`git branch -r`
+`git branch -r` --> Getting all remote branch
 <br>
 `git checkout <branch>`
 <br>
