@@ -24,6 +24,8 @@
 `git commit -m <commit Message>`
 <br>
 `git branch`
+Branch Images
+<img src="https://i.stack.imgur.com/eE8dd.png"><img>
 <br>
 `git branch -r` --> Getting all remote branch
 <br>
